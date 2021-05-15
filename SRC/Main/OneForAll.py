@@ -121,7 +121,7 @@ def randPassword():
           print("R. To Generate Password.")
           print("H. To View Saved Password.")
           userInp = input("Your Choice: ")
-          f = open("./password.txt", "a+")
+          f = open("./SRC/File/Password.txt", "a+")
           if userInp == "R" or userInp == "r":     
                print("<- ( * ‿ * )Random Password Generator ->\n")
                passlen = int(input("Enter the length of password: "))
