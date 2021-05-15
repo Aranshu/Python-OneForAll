@@ -4,26 +4,22 @@
 
 ### Main Menu
 
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/main%20menu.png?raw=true)
+![Main Menu](https://github.com/Aranshu/OneForAll/blob/master/Image/main%20menu.png?raw=true)
 
 ### Dice Roller
 
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/Dice%20Roll.png?raw=true)
+![Dice Roller](https://github.com/Aranshu/OneForAll/blob/master/Image/Dice%20Rolling.PNG?raw=true)
 
 ### Number Guessing Game
 
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/Guess%20the%20number.png?raw=true)
+![Number Guessing Game](https://github.com/Aranshu/OneForAll/blob/master/Image/Guessing%20Number.PNG?raw=true)
 
 ### Password Generator
 
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/password%20gen.png?raw=true)
+![Password Generator](https://github.com/Aranshu/OneForAll/blob/master/Image/Random%20Password%20Generator.PNG?raw=true)
 
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/password%20hist.png?raw=true)
-
-### Basic Calculator
-
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/cal.png?raw=true)
+![Password Generator History](https://github.com/Aranshu/OneForAll/blob/master/Image/Random%20Password%20Genrator%20History.PNG?raw=true)
 
 ### Pytests
 
-![](https://github.com/ArnoldKevinDesouza/258327_Project/blob/master/Media/pytest.png?raw=true)
+![Pytests](https://github.com/Aranshu/OneForAll/blob/master/Image/pytest.PNG?raw=true)
