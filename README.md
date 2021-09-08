@@ -12,3 +12,6 @@ It has the various features:
 
 ## Pre-Requirements
 1) Install Pytest :- "pip install pytest"
+
+## Links
+1. [site](https://aranshu.github.io/Python-OneForAll/)
